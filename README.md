@@ -19,3 +19,18 @@ Dit is het vervolg van het onderzoek dat in 2017 is gestart.
 ## Voorwoord
 De Cyber Security Raad heeft eerder dit jaar gepleit voor: “Een onafhankelijke monitor van gehackte en kwetsbare IoT-apparaten, zodat publieke informatie beschikbaar komt over welke fabrikanten en leveranciers hun apparaten onvoldoende beveiligen.” De GDI.Foundation steunt dit advies en hoopt hier op korte termijn concreet vorm aan te geven.
 
+## Hoe staat het er nu echt voor?
+In dit onderzoek willen de volgende drie vragen proberen te beantwoorden:
+
+1. Hoe ziet het Nederlandse digitale landschap eruit in het algemeen?
+Hoeveel ICT-systemen zijn er in Nederland aan het internet gekoppeld? Wat voor systemen (smartphones, servers)? Wat draait er op (Windows, Android)? Welke diensten worden daarop aangeboden (www, dns, ssh, etc.)?
+
+2. Hoe ziet het Nederlandse Internet-of-Things (IoT) eruit?
+Steeds meer ICT-systemen behoren tot het zogenaamde Internet-of-Things (IoT), zoals beveiligingscamera’s en slimme thermostaten. Hoe groot is het Nederlandse IoT? Hoeveel en welke type IoT-devices zijn bereikbaar vanaf het Nederlands internet?
+
+3. Welk percentage van Nederlandse ICT is kwetsbaar?
+Nadat het Nederlandse digitale landschap (inclusief IoT) in kaart is gebracht, is het belangrijk om te weten welk deel hiervan kwetsbaar is. Welk deel draait op verouderd software of een biedt een verouderd versie van een dienst aan? Welk deel van het IoT maakt gebruik van een standaard wachtwoord?
+
+## Scope
+Het Nederlandse Internet bestaat uit bijna 44 miljoen IPv4 adressen en {nog niet in kaart gebracht} IPv6 adressen. Natuurlijk worden niet alle addressen gebruikt. Ook verschuift het eigenaarschap van sommige IP blocks. Ook is de eigenaar van deze IPadressen meestal niet de “bewoner/gebruiker” van dat adres. Het eigenaarschap is onder te verdelen naar Netblock eigenaar, ISP/Webhoster/Reseller -  Gebruiker.  Nu hoeft de gebruiker niet altijd de eigenaar te zijn van de gegevens die op de host aanwezig is. In dit onderzoek kijken we dus niet naar de eigenaar maar naar het device dat aangesloten is aan het internet.
+
