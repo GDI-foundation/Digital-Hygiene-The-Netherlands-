@@ -1,8 +1,6 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
-# Digital-Hygiene
-Status: runnning / Last update: Monday 8 October 2018
-Projectboard: https://github.com/GDI-foundation/GDI.foundation/projects/5
+# Digitale hygiëne
 
 ## Inleiding
 Digitalisering creëert over de hele wereld en dus ook binnen Nederland nieuwe kansen en mogelijkheden. Door de afhankelijkheid tussen de digitale wereld en onze reële wereld neemt ook de impact van digitale kwetsbaarheden voor ons dagelijks leven toe evenals het misbruik van deze kwetsbaarheden door cyber criminelen. Maar wat is de status van de digitale hygiëne van Nederland? Hoe kwetsbaar zijn we en wat is de impact hiervan?
