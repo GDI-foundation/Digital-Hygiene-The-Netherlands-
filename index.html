@@ -10,11 +10,13 @@
   <div id="app"></div>
 <script>
   window.$docsify = {
-    loadSidebar: true,
-    alias: {
-      '/.*/_sidebar.md': '/_sidebar.md'
-    }
-  }
+  // load from _sidebar.md
+  loadSidebar: true,
+
+  // load from _sidebar.md
+  loadSidebar: '_sidebar.md'
+}; 
+  
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
